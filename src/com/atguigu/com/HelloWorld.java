@@ -77,6 +77,8 @@ public class HelloWorld {
         list1.add("fdfdadfdfd");
 
         method1();
+
+
     }
 
     public static void method1(){
