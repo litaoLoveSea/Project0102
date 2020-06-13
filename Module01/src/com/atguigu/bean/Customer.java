@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Customer {
 
     public static void main(String[] args) {
-        System.out.println("module01");
+        System.out.println("module01测试");
         ArrayList list = new ArrayList();
     }
 
